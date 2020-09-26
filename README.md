@@ -1,5 +1,5 @@
 # python-func
-Using various prompts to get more familiarity with Python's function space
+Using various prompts to get more familiarity with Python's function space. I've also used this project to get more familiar with GitHub codespaces.
 
 ## Prompts used in this project
 
